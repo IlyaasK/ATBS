@@ -1,0 +1,7 @@
+print ('yo')
+print ('Tera naam')
+naam = input()
+print ('your name is ' + naam)
+print ('umar?')
+umar = input()
+print ('You are ' + str(int(umar) + 10) + ' years old in a decade.')
